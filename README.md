@@ -7,10 +7,12 @@ A Movie Ticket Booking System
 ---
 > React
 
+
 > JavaScript
 ### Backend
 ---
 > Spring boot
+
 
 > Java
 ### Database
