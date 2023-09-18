@@ -2,6 +2,7 @@
 ## Description
 A Movie Ticket Booking System
 ## Technology
+
 ### Frontend
 ---
 > React
